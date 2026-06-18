@@ -13,6 +13,13 @@ This project detects fraudulent credit card transactions using Machine Learning.
 ## Model
 - Logistic Regression
 
+## Features
+- Detects fraudulent transactions
+- Logistic Regression model
+- 99.05% Accuracy
+- Confusion Matrix Visualization
+- Real-time transaction prediction
+
 ## Results
 - Accuracy: 99.05%
 - Fraud Detection Prediction
@@ -20,3 +27,4 @@ This project detects fraudulent credit card transactions using Machine Learning.
 
 ## Author
 Jasmin Rajguru
+B.Tech CSE (Data Science)
